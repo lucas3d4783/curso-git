@@ -1,3 +1,4 @@
 teste
 Entendendo o HEAD (Ele é sempre o último commit)
 Editando esse arquivo no ramo master
+Este aquivo foi modificado no ramo teste
